@@ -1,28 +1,19 @@
 package de.telran.homework.two.calc;
 
 public class Calculator {
-
-    double x;
-    double y;
-
-    public Calculator(double x, double y) {
-        this.x = x;
-        this.y = y;
-    }
-
-    public double sum() {
+    public double sum(double x, double y) {
         return x + y;
     }
 
-    public double sub() {
+    public double sub(double x, double y) {
         return x - y;
     }
 
-    public double mult() {
+    public double mult(double x, double y) {
         return x * y;
     }
 
-    public double div() {
+    public double div(double x, double y) {
         return x / y;
     }
 }
