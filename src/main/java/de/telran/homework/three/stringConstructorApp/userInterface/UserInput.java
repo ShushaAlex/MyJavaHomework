@@ -1,4 +1,4 @@
-package de.telran.homework.three.firstTask.userInterface;
+package de.telran.homework.three.stringConstructorApp.userInterface;
 
 import java.util.Scanner;
 

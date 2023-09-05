@@ -1,4 +1,4 @@
-package de.telran.homework.three.firstTask.userInterface;
+package de.telran.homework.three.stringConstructorApp.userInterface;
 
 public class UserOutput {
 

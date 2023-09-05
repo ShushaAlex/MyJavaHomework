@@ -1,8 +1,8 @@
-package de.telran.homework.three.firstTask;
+package de.telran.homework.three.stringConstructorApp;
 
-import de.telran.homework.three.firstTask.service.HalfSubstring;
-import de.telran.homework.three.firstTask.userInterface.UserInput;
-import de.telran.homework.three.firstTask.userInterface.UserOutput;
+import de.telran.homework.three.stringConstructorApp.service.HalfSubstring;
+import de.telran.homework.three.stringConstructorApp.userInterface.UserInput;
+import de.telran.homework.three.stringConstructorApp.userInterface.UserOutput;
 
 public class StringApp {
     public static void main(String[] args) {

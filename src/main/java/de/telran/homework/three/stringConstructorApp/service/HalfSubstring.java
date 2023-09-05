@@ -1,4 +1,4 @@
-package de.telran.homework.three.firstTask.service;
+package de.telran.homework.three.stringConstructorApp.service;
 
 public class HalfSubstring {
 
