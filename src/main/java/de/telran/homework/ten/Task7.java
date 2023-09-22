@@ -1,7 +1,5 @@
 package de.telran.homework.ten;
 
-import de.telran.homework.three.myNewCalculator.userInterface.UserOutput;
-
 import java.util.Arrays;
 
 /*
@@ -9,7 +7,6 @@ import java.util.Arrays;
 Выведите его на консоль в строку.
 Определите и выведите на экран сообщение о том, является ли
 массив строго возрастающей последовательностью (каждый элемент строго больше предыдущего)
-
  */
 public class Task7 {
     public static void main(String[] args) {
